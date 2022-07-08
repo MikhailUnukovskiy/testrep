@@ -1,7 +1,23 @@
 .form{
+    margin-top: 12%;
     text-align: center;
+    position: relative;
+    
     
 }
 .form label{
     display: block;
+}
+.g-recaptcha{
+    margin-top: 10px;
+    margin-left: 42%;
+    
+}
+
+.form input, form select{
+    border: none;
+    border-bottom: 1px solid #ccc;
+    padding: 5px 10px 5px;
+    outline: none;
+    margin-bottom: 10px;
 }
