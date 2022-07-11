@@ -1,7 +1,7 @@
 .form{
     margin-top: 12%;
     text-align: center;
-    position: relative;
+   
     
     
 }
@@ -17,7 +17,7 @@
 .form input, form select{
     border: none;
     border-bottom: 1px solid #ccc;
-    padding: 5px 10px 5px;
+    padding: 5px ;
     outline: none;
     margin-bottom: 10px;
 }
